@@ -13,11 +13,13 @@ Um bot simples feito com `discord.py` que simula o sorteio de uma carta de baral
 - Python 3.8 ou superior
 - Biblioteca `discord.py`
 
+## USE ESSE COMANDO NO DISCORD PARA INICIA-LO
+
+- !carta
+
 Instale a biblioteca com:
 
 ```bash
 pip install discord.py
 
-## USE ESSE COMANDO NO DISCORD PARA INICIA-LO
 
-- !carta
